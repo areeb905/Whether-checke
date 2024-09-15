@@ -1,0 +1,42 @@
+body {
+    background-color: #FFA500;
+
+}
+
+.container {
+    height: 100vh;
+    width: 100%;
+    /* border: 2px solid black; */
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}
+
+h1 {
+    text-align: center;
+    font-size: 40px
+}
+
+#ip {
+    height: 35px;
+    width: 267px;
+    border: 2px solid transparent;
+    border-radius: 20px;
+}
+
+#btn {
+    height: 40px;
+    width: 93px;
+    border: 2px solid transparent;
+    border-radius: 20px;
+    margin-left: -61px;
+    font-size: large;
+    margin-top: 0px;
+    position: absolute;
+}
+
+input:focus {
+    border: none;
+    outline: none;
+}
