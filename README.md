@@ -1,2 +1,6 @@
 # Whether-checke
-In this we make  a weather checking projectin differnet countries this is not accurate it cand shor randomly.
+This means we are making a weather checking project, this means we can check weather in different cities.
+
+Note: This is not true.
+
+In this we use HTML , CSS and JS 
